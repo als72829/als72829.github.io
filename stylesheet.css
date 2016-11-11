@@ -1,0 +1,20 @@
+Body {
+	background-color: #7a7076;
+}
+
+#page {
+	font-size: 28px; 
+	text-decoration: underline;
+}
+#pic1 {
+	width: 700px; 
+	height: 500px;
+}
+#pic2 {
+	width: 700px;
+	height: 500px;
+}
+
+table, th, td {
+	border: #000000 1px solid;
+}
